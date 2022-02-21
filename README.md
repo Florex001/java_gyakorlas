@@ -15,9 +15,9 @@ ilyen oldalakkal szerkeszthető-e háromszög!✅
 8. Írj programot, mely beolvas két pozitív egész számot, és kiírja a számtani és mértani
 közepüket! A gyökvonáshoz használd a Math.Sqrt() függvényt!✅
 9. Írj programot, mely beolvassa a másodfokú egyenlet együtthatóit, és kiírja, hogy az
-egyenletnek van-e megoldása!
+egyenletnek van-e megoldása!✅
 10. Írj programot, ami beolvassa a másodfokú egyenlet együtthatóit, és kiírja az egyenlet
-megoldásait, ha vannak!
+megoldásait, ha vannak!✅
 11. Írj programot, mely beolvassa egy derékszögű háromszög két befogóját, és megadja
 az átfogójának a hosszát! Az átfogót 2 tizedesjeggyel add meg!
 12. Írj programot, mely beolvassa a téglatest három élének hosszát, és kiírja a
