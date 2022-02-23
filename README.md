@@ -1,7 +1,7 @@
 # java_gyakorlas
 1. Írj programot, ami kiírja a képernyőre, hogy ”Hello world!”!✅
 2. Írj programot, beolvassa a felhasználó nevét, majd köszön neki!✅
-3. Írj programot, ami beolvas egy számot, majd kiírja a kétszeresét!✅
+3. Írj programot, ami beolvas egy számot, majd kiírja a kétszeresét! ✅
 4. Írj programot, ami beolvas két számot, majd kiírja:
 a. az összegüket;
 b. különbségüket;
@@ -36,13 +36,13 @@ testtömeg osztályokat meghatározhatjuk tetszőlegesen, de alapul vehetünk l�
 osztályozásokat is.✅
 
 18. Írjunk programot, amely bekéri két pont koordinátáit, majd kiszámolja azok
-távolságát. Két pont távolságát az alábbi képlet számítja ki:
+távolságát. Két pont távolságát az alábbi képlet számítja ki:✅
 
 19. Írjon egy programot, ami leosztályoz egy maximálisan 100 pontos dolgozatot az 50,
 65, 80, 90 ponthatárok szerint! A határérték a jobb jegyhez tartozik. Ha a pontszám
-negatív vagy száznál nagyobb, akkor a program írja ki, hogy hibás az adat!
+negatív vagy száznál nagyobb, akkor a program írja ki, hogy hibás az adat!✅
 20. Készítsünk programot, amely bekér két számot, majd a kettő közötti
-számtartományban kiír három darab véletlen számot.
+számtartományban kiír három darab véletlen számot.✅
 21. Készítsünk programot, amely segíti a burkoló mesterek munkáját. A szükséges
 csempe mennyiségének a kiszámításához a program kérje be a terület szélességét,
 valamint a magasságát méterben, majd számolja ki, hogy 20cm*20cm méretű
