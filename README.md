@@ -19,21 +19,21 @@ egyenletnek van-e megoldása!✅
 10. Írj programot, ami beolvassa a másodfokú egyenlet együtthatóit, és kiírja az egyenlet
 megoldásait, ha vannak!✅
 11. Írj programot, mely beolvassa egy derékszögű háromszög két befogóját, és megadja
-az átfogójának a hosszát! Az átfogót 2 tizedesjeggyel add meg!
+az átfogójának a hosszát! Az átfogót 2 tizedesjeggyel add meg!✅
 12. Írj programot, mely beolvassa a téglatest három élének hosszát, és kiírja a
-felszínének és térfogatának mérőszámát!
+felszínének és térfogatának mérőszámát!✅
 13. Írj programot, mely beolvassa egy kör átmérőjét, és kiírja a kör kerületét és területét!
-A pi értékének meghatározásához használd a Math.PI értéket!
+A pi értékének meghatározásához használd a Math.PI értéket!✅
 14. Írj programot, ami beolvassa a körív sugarát és középponti szögét, és kiírja a körív
-területét és a határoló ív hosszát!
+területét és a határoló ív hosszát!✅
 15. Írjunk programot, mely bekér egy számot, és eldönti, hogy osztható-e 3-mal, 4-gyel
-vagy 9-cel.
+vagy 9-cel.✅
 16. Készítsünk programot, mely bekér egy hőmérséklet értéket, majd felajánlja, hogy
-Celsiusból Fahrenheitbe, vagy Fahrenheitből Celsiusba váltja át.
+Celsiusból Fahrenheitbe, vagy Fahrenheitből Celsiusba váltja át.✅
 17. Írjunk programot, mely a testsúly és a testmagasság alapján meghatározza a
 testtömegindexet, és kiírja, hogy milyen testsúly osztályba tartozik az adott illető. a
 testtömeg osztályokat meghatározhatjuk tetszőlegesen, de alapul vehetünk létező
-osztályozásokat is.
+osztályozásokat is.✅
 
 18. Írjunk programot, amely bekéri két pont koordinátáit, majd kiszámolja azok
 távolságát. Két pont távolságát az alábbi képlet számítja ki:
