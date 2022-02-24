@@ -73,7 +73,7 @@ Hatványérték: 8✅
 
 29. Írj programot, ami csak pozitív számot hajlandó beolvasni.✅
 30. Írj programot, amely addig olvas be számokat a billentyűzetről, ameddig azok
-kisebbek, mint tíz. Írja ki ezek után a beolvasott számok összegét!
+kisebbek, mint tíz. Írja ki ezek után a beolvasott számok összegét!✅
 31. Írj programot, amely beolvas egy egész számot, majd elosztja 2-vel annyiszor,
 ahányszor lehet és közben felírja a számot a kettes számok szorzataként
 megszorozva egy olyan számmal, amely már nem osztható 2-vel.
