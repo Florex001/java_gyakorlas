@@ -55,23 +55,23 @@ másodperc). Számítsuk ki a két időpont közti különbséget másodpercekbe
 Második rész:
 
 23. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az egész számokat
-a képernyőre eddig a számig, egymástól szóközzel elválasztva!
+a képernyőre eddig a számig, egymástól szóközzel elválasztva!✅
 24. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az egész számokat
-egymás alá a képernyőre eddig a számig!
-25. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az osztóit!
+egymás alá a képernyőre eddig a számig!✅
+25. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az osztóit!✅
 26. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az osztóinak az
-összegét!
+összegét!✅
 27. Írj programot, amely beolvas egy pozitív egész számot, és megmondja, hogy
 tökéletes szám-e! (A tökéletes számok azok, melyek osztóinak összege egyenlő a
-szám kétszeresével. Ilyen szám pl. a 6, mert 2*6 = 1 + 2 + 3 + 6.)
+szám kétszeresével. Ilyen szám pl. a 6, mert 2*6 = 1 + 2 + 3 + 6.)✅
 28. Írj programot, amely beolvassa a hatvány alapját és a kitevőt, és kiírja a
 hatványértéket!
 Példa:
 Hatványalap: 2
 Kitevő: 3
-Hatványérték: 8
+Hatványérték: 8✅
 
-29. Írj programot, ami csak pozitív számot hajlandó beolvasni.
+29. Írj programot, ami csak pozitív számot hajlandó beolvasni.✅
 30. Írj programot, amely addig olvas be számokat a billentyűzetről, ameddig azok
 kisebbek, mint tíz. Írja ki ezek után a beolvasott számok összegét!
 31. Írj programot, amely beolvas egy egész számot, majd elosztja 2-vel annyiszor,
