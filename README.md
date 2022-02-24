@@ -47,7 +47,7 @@ számtartományban kiír három darab véletlen számot.✅
 csempe mennyiségének a kiszámításához a program kérje be a terület szélességét,
 valamint a magasságát méterben, majd számolja ki, hogy 20cm*20cm méretű
 csempék esetén hány darabra van szükség a munka elvégzéséhez (a plusz 10%-ot
-az illesztések miatt illik rászámolnunk).
+az illesztések miatt illik rászámolnunk).✅
 22. Készítsünk programot, amely bekér két, egy napon belüli időpontot (óra, perc,
 másodperc). Számítsuk ki a két időpont közti különbséget másodpercekben és
-írassuk ki a képernyőre!
+írassuk ki a képernyőre!✅
