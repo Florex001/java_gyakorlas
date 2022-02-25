@@ -82,18 +82,18 @@ Kérek egy egész számot: 120
 120 = 2*2*2*15
 Ha a szám egyszer sem osztható kettővel, akkor:
 Kérek egy egész számot: 17
-17 = 17
+17 = 17✅
 
 32. Írj programot, ami csak az "alma" szót hajlandó beolvasni, ha ez sikerült, akkor kiírja,
-hogy az "Az alma gyümölcs!".
+hogy az "Az alma gyümölcs!".✅
 33. Írj programot, ami beolvas egy egész számot, majd addig von ki belőle 3-at, amíg
 háromnál kisebb nem lesz az eredmény. Írja ki ezek után a hárommal való
 maradékos osztását a számnak.
 Például:
 Kérek egy egész számot: 16
-16 = 5*3+1
+16 = 5*3+1✅
 
-34. Írj programot, amely eldönti egy számról, hogy prímszám-e.
+34. Írj programot, amely eldönti egy számról, hogy prímszám-e.✅
 35. Írj programot, amely beolvas egy számot, és kiírja a prímszámokat eddig a számig!
 
 36. Írj programot, ami beolvas két számot, és kiírja a két szám legnagyobb közös
