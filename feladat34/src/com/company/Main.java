@@ -7,18 +7,25 @@ public class Main {
     public static void main(String[] args) {
         Scanner konzol = new Scanner(System.in);
         System.out.print("adj meg egy számot: ");
-        int szam = konzol.nextInt();
+        int n = konzol.nextInt();
 
-        if ((szam==1)||(szam ==2)){
-            System.out.println("prím");
+        boolean prim = true;
+
+        for(int i = 2; i < Math.sqrt(n); i++){
+           if(n % i == 0){
+               prim = false;
+           }
         }
-        else if (szam %2==0){
-            System.out.println("nem prím");
+        if(n<2){
+            prim = false;
         }
-        else {
-            System.out.println("prím");
+        if(prim == true){
+            System.out.println("prímszám");
+        }else{
+            System.out.println("nem prim szám");
         }
+
+
     }
 }
-© 2022 GitHub, Inc.
-Terms
+
