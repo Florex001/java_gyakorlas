@@ -1,4 +1,7 @@
 # java_gyakorlas
+  Első rész:✅
+
+
 1. Írj programot, ami kiírja a képernyőre, hogy ”Hello world!”!✅
 2. Írj programot, beolvassa a felhasználó nevét, majd köszön neki!✅
 3. Írj programot, ami beolvas egy számot, majd kiírja a kétszeresét! ✅
@@ -54,6 +57,7 @@ másodperc). Számítsuk ki a két időpont közti különbséget másodpercekbe
 
 Második rész:
 
+
 23. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az egész számokat
 a képernyőre eddig a számig, egymástól szóközzel elválasztva!✅
 24. Írj programot, amely beolvas egy pozitív egész számot, és kiírja az egész számokat
@@ -94,7 +98,7 @@ Kérek egy egész számot: 16
 16 = 5*3+1✅
 
 34. Írj programot, amely eldönti egy számról, hogy prímszám-e.✅
-35. Írj programot, amely beolvas egy számot, és kiírja a prímszámokat eddig a számig!
+35. Írj programot, amely beolvas egy számot, és kiírja a prímszámokat eddig a számig!✅
 
 36. Írj programot, ami beolvas két számot, és kiírja a két szám legnagyobb közös
 osztóját!
@@ -104,19 +108,19 @@ t := b
 b := a mod b
 a := t
 Ciklus vége
-Ki: a
+Ki: a✅
 
-37. Írj programot, ami beolvas két számot, és kiírja a legkisebb közös többszörösüket!
-38. Írj programot, ami beolvas egy számot, és kiírja az ilyen alapú szorzótáblát!
-39. Írj programot, ami beolvas egy számot, és kiírja az ilyen alapú összegtáblát!
+37. Írj programot, ami beolvas két számot, és kiírja a legkisebb közös többszörösüket!✅
+38. Írj programot, ami beolvas egy számot, és kiírja az ilyen alapú szorzótáblát!✅
+39. Írj programot, ami beolvas egy számot, és kiírja az ilyen alapú összegtáblát!✅
 40. Párosával speciális szám a 12 és 42, mivel 12*42 = 504 = 21*24, azaz a két szám
 szorzata nem változik, ha számjegyeiket felcseréljük. Vajon van-e még ilyen kétjegyű
 számpár, és melyek azok? A feladat a keresett párokat előállító program írása! Egy
 szám első számjegyét megkapod, ha elosztod maradékosan 10-zel (X/10), a
 második számjegyét, ha veszed a tízes maradékát (X%10), ha az x egy kétjegyű,
-egész típusú szám.
+egész típusú szám.✅
 41. Írj programot, ami kiírja a kisbetűket, és melléjük az ASCII kódjukat! A kiírás több
-oszlopos legyen, és legfeljebb 10 soros. Minta:
+oszlopos legyen, és legfeljebb 10 soros. Minta:✅
 
 42. Írj programot, ami a következő sormintával tölti ki a képernyő egy részét:
 
@@ -140,4 +144,9 @@ számokat!
 47. Írj programot, amely kiírja a Vigenère-táblát! Az első sor az angol ABC betűit
 tartalmazza, majd minden további sorban az ABC az előző sorhoz képet eggyel
 eltolva szerepel.
+
+Harmadik rész:
+
+
+
 
